@@ -1,0 +1,13 @@
+,Var1,Var2,spearman,pvalue,fdr,neg_log_pvalue,feature,significance,color,abs_spearman
+353,Plasma.Post.Mpt64.C1Q,Plasma.Post.PPD.C1Q,0.807,4.20E-08,1.37E-06,7.376323963,Plasma.Post.PPD.C1Q,fdr_significant,#A00000,0.807
+529,Plasma.Post.PstS1.IgG1,Plasma.Post.GroES.IgG1,0.794,1.01E-07,2.75E-06,6.996772736,Plasma.Post.GroES.IgG1,fdr_significant,#A00000,0.794
+530,Plasma.Post.PstS1.IgG1,Plasma.Post.Ag85A.B.IgG1,0.777,2.81E-07,6.29E-06,6.55157067,Plasma.Post.Ag85A.B.IgG1,fdr_significant,#A00000,0.777
+1,Plasma.Post.PstS1.IgM,Plasma.Post.LAM.IgM,0.773,3.54E-07,7.71E-06,6.451184952,Plasma.Post.LAM.IgM,fdr_significant,#A00000,0.773
+355,Plasma.Post.Mpt64.C1Q,Plasma.Post.HspX.C1Q,0.758,7.84E-07,1.47E-05,6.105906998,Plasma.Post.HspX.C1Q,fdr_significant,#A00000,0.758
+531,Plasma.Post.PstS1.IgG1,Plasma.Post.HspX.IgG1,0.755,9.09E-07,1.66E-05,6.04152731,Plasma.Post.HspX.IgG1,fdr_significant,#A00000,0.755
+532,Plasma.Post.PstS1.IgG1,Plasma.Post.LAM.IgG1,0.736,2.34E-06,3.67E-05,5.63036021,Plasma.Post.LAM.IgG1,fdr_significant,#A00000,0.736
+533,Plasma.Post.PstS1.IgG1,Plasma.Post.PPD.IgG1,0.723,4.27E-06,6.12E-05,5.369658787,Plasma.Post.PPD.IgG1,fdr_significant,#A00000,0.723
+178,Plasma.Post.LAM.ADNP,Plasma.Post.PPD.ADNP,0.721,4.67E-06,6.62E-05,5.330218463,Plasma.Post.PPD.ADNP,fdr_significant,#A00000,0.721
+534,Plasma.Post.PstS1.IgG1,Plasma.Post.Apa.IgG1,0.72,5.02E-06,7.05E-05,5.298908286,Plasma.Post.Apa.IgG1,fdr_significant,#A00000,0.72
+705,Plasma.Post.PstS1.IgA,Plasma.Post.Ag85A.B.IgA,0.715,6.22E-06,8.45E-05,5.206243675,Plasma.Post.Ag85A.B.IgA,fdr_significant,#A00000,0.715
+535,Plasma.Post.PstS1.IgG1,Plasma.Post.Mpt64.IgG1,0.711,7.28E-06,9.66E-05,5.137962774,Plasma.Post.Mpt64.IgG1,fdr_significant,#A00000,0.711

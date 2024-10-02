@@ -1,0 +1,4 @@
+,Var1,Var2,spearman,pvalue,fdr,neg_log_pvalue,feature,significance,color,abs_spearman
+1,Plasma.Pre.Apa.IgM,Plasma.Pre.Apa.IgG1,0.675,3.11E-05,0.000341999,4.507229085,Plasma.Pre.Apa.IgG1,fdr_significant,#A00000,0.675
+177,Plasma.Pre.PPD.C1Q,Plasma.Pre.LAM.ADNKA.IFNg,0.642,0.000100507,0.00092857,3.99780427,Plasma.Pre.LAM.ADNKA.IFNg,fdr_significant,#A00000,0.642
+178,Plasma.Pre.PPD.C1Q,Plasma.Pre.Apa.C1Q,0.641,0.000101851,0.00093712,3.992034393,Plasma.Pre.Apa.C1Q,fdr_significant,#A00000,0.641
